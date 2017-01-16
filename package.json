@@ -1,7 +1,7 @@
 {
   "name": "is.object",
-  "version": "0.0.0",
-  "description": "determines if is an object and not an array or null",
+  "version": "1.0.0",
+  "description": "verifies if is an object and not an array or null",
   "main": "index.js",
   "files": [
     "LICENSE",
@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/joaquimserafim/is.object#readme",
   "devDependencies": {
-    "istanbul": "^0.4.5",
+    "istanbul": "0.4.5",
     "pre-commit": "^1.2.2",
     "standard": "^8.6.0",
     "tape": "^4.6.3"
